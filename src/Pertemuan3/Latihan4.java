@@ -15,11 +15,10 @@ public class Latihan4 {
         if(l2 != null){
             System.out.println(l2.getJari2());
             /*
-             * Untuk mengatasi apakah variabel null atau tidak
-             * diperlukan pengkondisian untuk mengecek hal tersebut
+             * mengatasi error sebelumnya, perlu di check apakah
+             * l2 null, jika tidak maka print l2
              */
         }
         System.out.println(l3.getJari2());
-
     }
 }

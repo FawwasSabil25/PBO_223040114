@@ -12,7 +12,9 @@ public class Latihan3 {
         l2 = null; //l2 tidak lagi mereprentasi ke l1
 
         System.out.println(l1.getJari2());
-        System.out.println(l2.getJari2()); //error Cannot invoke "Lingkaran.getJari2()" because "l2" is null
+        System.out.println(l2.getJari2());
+        //error Cannot invoke "Lingkaran.getJari2()" because "l2" is null
+        //l2 tidak dapat di print karena nilainya null
         System.out.println(l3.getJari2());
 
     }
