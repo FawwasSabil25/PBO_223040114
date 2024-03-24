@@ -1,3 +1,5 @@
+package Pertemuan3;
+
 public class LatihanStudent {
     public static void main(String[] args) {
         Student x = new Student(0);

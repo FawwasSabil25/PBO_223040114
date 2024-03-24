@@ -1,3 +1,5 @@
+package Pertemuan3;
+
 public class Latihan4 {
     public static void main(String[] args) {
         

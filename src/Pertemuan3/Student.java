@@ -1,3 +1,5 @@
+package Pertemuan3;
+
 public class Student {
     private int Nrp;
 

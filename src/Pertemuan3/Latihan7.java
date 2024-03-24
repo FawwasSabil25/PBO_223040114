@@ -1,3 +1,5 @@
+package Pertemuan3;
+
 public class Latihan7 {
     public static void main(String[] args) {
         Lingkaran l1 = new Lingkaran(5);
