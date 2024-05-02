@@ -48,7 +48,7 @@ public class TranskripNilai {
         System.out.println("Tanggal Cetak: " + tglCetak);
         System.out.println("IPK: " + ipk);
         for (KartuHasilStudi khs : kartuhasilstudi) {
-            System.out.println(khs.displxay());
+            System.out.println(khs.display());
         }
     }
 
