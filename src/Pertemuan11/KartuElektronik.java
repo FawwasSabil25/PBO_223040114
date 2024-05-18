@@ -1,5 +1,3 @@
-package Pertemuan11;
-
 public class KartuElektronik implements Kartu{
     private String kodeBank;
     private String pin;

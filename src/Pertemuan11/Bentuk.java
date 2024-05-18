@@ -1,5 +1,3 @@
-package Pertemuan11;
-
 public abstract class Bentuk {
     protected double PHI = 3.14;
     protected int jari2;

@@ -1,5 +1,3 @@
-package Pertemuan11;
-
 public class Tabung extends Bentuk{
     private int tinggi;
 
